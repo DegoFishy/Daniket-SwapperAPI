@@ -1,3 +1,11 @@
 {
- "SwapperActive":"false"
+ "SwapperActive" :
+ {
+   [
+      "Active" :
+  {
+    "Swapper":"false",
+  }
+   ]
+ }
 }
